@@ -1144,7 +1144,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/black.png);
+  background-image: url(../img/banner/main_banner.png);
 }
 
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
@@ -1676,10 +1676,10 @@ h3 {
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area::before {
   content: '';
-  background-image: url(../img/banner/black.png);
+  background-image: url(../img/blog/asesorias.png);
   left: 0;
   top: 0;
-  height: 50%;
+  height: 100%;
   width: 50%;
   z-index: 9;
   background-size: cover;
@@ -1782,7 +1782,7 @@ h3 {
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area_second::before {
   content: '';
-  background-image: url(../img/about/about.png);
+  background-image: url(../img/blog/nuestra_experiencia.png);
   left: 0;
   top: 0;
   height: 100%;
